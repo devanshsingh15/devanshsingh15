@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **devanshdmp15@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/devanshsingh15/RESUME/blob/main/Devansh_Resume.pdf](https://github.com/devanshsingh15/RESUME/blob/main/Devansh_Resume.pdf)
+- 📄 Know about my experiences [https://rb.gy/5ewjjs](https://rb.gy/5ewjjs)
 
 - ⚡ Fun fact **I can make you laugh**
 
