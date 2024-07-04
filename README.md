@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/devanshsin51969" target="blank"><img src="https://img.shields.io/twitter/follow/devanshsin51969?logo=twitter&style=for-the-badge" alt="devanshsin51969" /></a> </p>
 
-- I’m currently working on [a MERN project](https://github.com/devanshsingh15/MERN-doctor_appointment)
+- I’m currently working on [a Data Science Project](https://github.com/devanshsingh15/Healing-Behind-the-Bars)
 
 - 🌱 I’m currently learning **Front end Designing**
 
