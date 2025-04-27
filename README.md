@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/devanshsin51969" target="blank"><img src="https://img.shields.io/twitter/follow/devanshsin51969?logo=twitter&style=for-the-badge" alt="devanshsin51969" /></a> </p>
 
-- I’m currently working on [a Data Science Project](https://github.com/devanshsingh15/Healing-Behind-the-Bars)
+- I’m currently doing [Core JAVA training]
 
-- 🌱 I’m currently learning **Front end Designing**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **Data Structures, JavaScript, SQL queries**
+- 💬 Ask me about **Data Structures, Cloud, SQL queries**
 
 - 📫 How to reach me **devanshdmp15@gmail.com**
 
